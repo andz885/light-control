@@ -2,7 +2,6 @@
 #include <ESP8266WiFi.h>
 #include <ESPAsyncTCP.h>
 #include <ESPAsyncWebServer.h>
-#include <ArduinoJson.h>
 
 #define UD_PIN D3
 #define CS_SERIAL_PIN D4
